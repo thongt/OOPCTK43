@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{903A88CE-A582-4616-867E-D581B3D8D760}</ProjectGuid>
+    <ProjectGuid>{9956EE21-16EE-4382-9BB0-2FBE7C89856D}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Bai_2_Xuat_Du_Lieu</RootNamespace>
-    <AssemblyName>Bai 2_Xuat Du Lieu</AssemblyName>
+    <RootNamespace>Bai_2___Nhap_Du_Lieu</RootNamespace>
+    <AssemblyName>Bai 2 _ Nhap Du Lieu</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
