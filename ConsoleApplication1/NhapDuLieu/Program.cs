@@ -14,7 +14,7 @@ namespace NhapDuLieu
             int i=0;
             string b = "Xin chao lop CTK43";
             //Hien thi dong nhap vao so nguyen
-            Console.Write("Nhap vao so nguyên ");
+            Console.Write("Nhap vao so nguyên: ");
             //Chuyen chuoi vua nhap sang so nguyen va gan cho bien i
             //i = int.Parse(Console.ReadLine());
             i = Convert.ToInt32(Console.ReadLine());
