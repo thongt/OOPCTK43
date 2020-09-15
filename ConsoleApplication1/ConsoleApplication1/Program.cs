@@ -18,7 +18,7 @@ namespace ConsoleApplication1
             float tam = 7000000000;
 
             int danso = (int)tam; // khai bao mot bien i kieu integer va khoi gan = 10
-            Console.WriteLine(" Dan so the gioi la " + tam);
+            Console.WriteLine(" Dan so the gioi la: " + tam);
             Console.ReadKey();
         }
     }
