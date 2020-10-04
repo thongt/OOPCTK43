@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai 3_ Kieu chuoi", "Bai 3_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai 4 _ Quan ly danh sach ho ten", "Bai 4 _ Quan ly danh sach ho ten\Bai 4 _ Quan ly danh sach ho ten.csproj", "{BE078A0D-5776-4897-BC75-FEEC6D824934}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mang1Chieu", "Mang1Chieu\Mang1Chieu.csproj", "{9C147F0C-BF23-4196-B042-5CE7C04850A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mang1ChieuV2", "Mang1ChieuV2\Mang1ChieuV2.csproj", "{DB4ADF0A-85C9-4A0A-9F1A-94C740D10768}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{BE078A0D-5776-4897-BC75-FEEC6D824934}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE078A0D-5776-4897-BC75-FEEC6D824934}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE078A0D-5776-4897-BC75-FEEC6D824934}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C147F0C-BF23-4196-B042-5CE7C04850A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C147F0C-BF23-4196-B042-5CE7C04850A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C147F0C-BF23-4196-B042-5CE7C04850A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C147F0C-BF23-4196-B042-5CE7C04850A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB4ADF0A-85C9-4A0A-9F1A-94C740D10768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB4ADF0A-85C9-4A0A-9F1A-94C740D10768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB4ADF0A-85C9-4A0A-9F1A-94C740D10768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB4ADF0A-85C9-4A0A-9F1A-94C740D10768}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

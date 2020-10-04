@@ -16,8 +16,12 @@ namespace Bai_4___Quan_ly_danh_sach_ho_ten
             HienThiTheoChieuTangCuaTen,
             Thoat =10
         }
-
-
+        static int vt = 0;
+      static  string[] ds = new string[] { "nguyen Duc Anh",
+                "Hoang Thi Phuong",
+                "Bui Tien Dung",
+                "Nguyen Cong Binh",
+                "Nguyen Van Toan" };
         static void Main(string[] args)
         {
             //string[] ds = new string[100];
@@ -122,10 +126,26 @@ namespace Bai_4___Quan_ly_danh_sach_ho_ten
             }
 
         }
-        static int DemHoTrongDanhSach(string[] ds, string hoCanDem)
-
+        static int DemHoTrongDanhSach(string hoCanDem)
         {
             int dem = 0;
+            for (int i = 0; i < ds.Length; i++)
+            {
+                string hoVaTen = ds[i].TrimStart();
+                int vt = hoVaTen.IndexOf(" ");
+                string ho = hoVaTen.Substring(0, vt);
+                if (ho.ToLower() == hoCanDem.ToLower())
+                    dem++;
+            }
+            Console.WriteLine(vt);
+            return dem;
+        }
+        static int DemHoTrongDanhSach(string[] ds )
+        {
+            int dem = 0;
+            string hoCanDem = "";
+            Console.WriteLine("Nhap ho can dem");
+            hoCanDem = Console.ReadLine();
             for (int i = 0; i < ds.Length; i++)
             {
                 string hoVaTen = ds[i].TrimStart();
