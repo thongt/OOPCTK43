@@ -218,6 +218,32 @@ namespace Bai_4___Quan_ly_danh_sach_ho_ten
             XuatDanhSach(ds);
 
         }
+        static int DemSoLanXuatHienTheoHo(string ho)
+        {
+
+        }
+        static List<string> LayDanhSachHo(string[] ds)
+        {
+            List<string> kq = new List<string>();
+            foreach (var item in ds)
+            {
+                string ho = LayTen(item);
+                if (!kq.Contains(ho))
+                    kq.Add(ho);
+            }
+            return kq;
+        }
+        static List <string> TimHoCoSoLanXuatHienLaX(string[] ds, int solan)
+        {
+            List<string> kq = new List<string>();
+            List<string> dsHo = LayDanhSachHo(ds);
+            foreach (var ho  in dsHo)
+            {
+                if (DemSoLanXuatHienTheoHo(ho) == solan)
+                    kq.Add(ho);
+            }
+            return kq;
+        }
         static void XuatDanhSach(string[] ds)
         {
             for (int i = 0; i < ds.Length; i++)
