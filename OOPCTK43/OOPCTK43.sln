@@ -11,9 +11,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai 3_ Kieu chuoi", "Bai 3_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai 4 _ Quan ly danh sach ho ten", "Bai 4 _ Quan ly danh sach ho ten\Bai 4 _ Quan ly danh sach ho ten.csproj", "{BE078A0D-5776-4897-BC75-FEEC6D824934}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mang1Chieu", "Mang1Chieu\Mang1Chieu.csproj", "{9C147F0C-BF23-4196-B042-5CE7C04850A5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai 5 _Mang1Chieu", "Mang1Chieu\Bai 5 _Mang1Chieu.csproj", "{9C147F0C-BF23-4196-B042-5CE7C04850A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mang1ChieuV2", "Mang1ChieuV2\Mang1ChieuV2.csproj", "{DB4ADF0A-85C9-4A0A-9F1A-94C740D10768}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai 6_Mang1ChieuV2", "Mang1ChieuV2\Bai 6_Mang1ChieuV2.csproj", "{DB4ADF0A-85C9-4A0A-9F1A-94C740D10768}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai 7 _ Lop -Doi Tuong", "Bai 7 _ Lop -Doi Tuong\Bai 7 _ Lop -Doi Tuong.csproj", "{5C903DF3-5C89-4D67-B408-29998851A0CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai8_QuanLyPhanSo", "Bai8_QuanLyPhanSo\Bai8_QuanLyPhanSo.csproj", "{21369B7E-295E-4DEE-9448-4370893BC774}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{DB4ADF0A-85C9-4A0A-9F1A-94C740D10768}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB4ADF0A-85C9-4A0A-9F1A-94C740D10768}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB4ADF0A-85C9-4A0A-9F1A-94C740D10768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C903DF3-5C89-4D67-B408-29998851A0CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C903DF3-5C89-4D67-B408-29998851A0CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C903DF3-5C89-4D67-B408-29998851A0CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C903DF3-5C89-4D67-B408-29998851A0CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21369B7E-295E-4DEE-9448-4370893BC774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21369B7E-295E-4DEE-9448-4370893BC774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21369B7E-295E-4DEE-9448-4370893BC774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21369B7E-295E-4DEE-9448-4370893BC774}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
