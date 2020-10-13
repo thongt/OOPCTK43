@@ -29,13 +29,20 @@ namespace Bai_7___Lop__Doi_Tuong
             //Console.WriteLine(b);
             //b.Nhap();
             //Console.WriteLine(b);
-            DanhSachSinhVien ctk43 = new DanhSachSinhVien();
-            ctk43.NhapTuFile();
-            Console.WriteLine(ctk43);
+            //DanhSachSinhVien cntt = new DanhSachSinhVien();
+            //cntt.NhapTuFile();
+            //Console.WriteLine(cntt);
 
-            Console.WriteLine("----Danh sach sinh vien co dtb cao nhat ");
-            Console.WriteLine(ctk43.TimDSSVCoDTBCaoNhat());
+            //cntt.ThongKeSinhVienNamNu();
 
+            //Console.WriteLine(" Sv Nam "+ cntt.DemSoLuongSVNam());
+            //Console.WriteLine(" Sv Nu " + cntt.DemSoLuongSVNu());
+            //Console.WriteLine("----Danh sach sinh vien co dtb cao nhat ");
+            //Console.WriteLine(ctk43.TimDSSVCoDTBCaoNhat());
+
+
+            QuanLySinhVien ql = new QuanLySinhVien();
+            ql.QuanLy();
             Console.ReadKey();
 
         }

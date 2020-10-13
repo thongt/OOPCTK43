@@ -46,6 +46,7 @@
     <Compile Include="DanhSachSinhVien.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuanLySinhVien.cs" />
     <Compile Include="SinhVien.cs" />
   </ItemGroup>
   <ItemGroup>

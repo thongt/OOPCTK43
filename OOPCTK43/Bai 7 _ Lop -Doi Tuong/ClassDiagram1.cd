@@ -3,14 +3,21 @@
   <Class Name="Bai_7___Lop__Doi_Tuong.SinhVien">
     <Position X="4.25" Y="1.25" Width="2.75" />
     <TypeIdentifier>
-      <HashCode>AAAAEAAEAAAAAAAEAAAAEAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <HashCode>AAAAEAAEAAAAAAAEAAAAGAAAAAgAAAAAAAAgAAAABAA=</HashCode>
       <FileName>SinhVien.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Bai_7___Lop__Doi_Tuong.DanhSachSinhVien">
     <Position X="0.75" Y="1.5" Width="3.25" />
+    <NestedTypes>
+      <Enum Name="Bai_7___Lop__Doi_Tuong.DanhSachSinhVien.KieuSapXep" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DanhSachSinhVien.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAkAgAAAAAAAAAAAAAgAAACAAAAAAE=</HashCode>
+      <HashCode>ACAAAAAQAAAAAAAkAoQAAAAAAAAAAAAgAAYCAAABAAE=</HashCode>
       <FileName>DanhSachSinhVien.cs</FileName>
     </TypeIdentifier>
   </Class>
