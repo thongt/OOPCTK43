@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Bai10_Quan_Ly_Hinh_Hoc1.HinhVuong">
+    <Position X="1.75" Y="4" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAACEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HinhVuong.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bai10_Quan_Ly_Hinh_Hoc1.HinhTron">
+    <Position X="5" Y="3.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACEAAAAgAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>HinhTron.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bai10_Quan_Ly_Hinh_Hoc1.HinhHoc">
+    <Position X="3.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HinhHoc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bai10_Quan_Ly_Hinh_Hoc1.HinhCN">
+    <Position X="3.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HinhCN.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
